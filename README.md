@@ -12,7 +12,7 @@ Point your phone at any object in your home. Synapse identifies it and gives you
 
 ## Live Demo
 
-**[Try Synapse Now](https://YOUR-NETLIFY-URL.netlify.app)**
+**[Try Synapse Now](https://superb-mochi-21cf03.netlify.app)**
 
 ## What It Does
 
